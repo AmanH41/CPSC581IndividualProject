@@ -48,7 +48,7 @@ Additionally, I envisioned combining the auto battler and gacha game concepts, w
 ## RPS BattleZ Demo
 
 <div style="text-align: center;">
-  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=zv2M-zAE97Y&ab_channel=UbaidullahAhsan" 
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/zv2M-zAE97Y" 
   title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
   </iframe>
 </div>
