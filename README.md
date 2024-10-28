@@ -1,6 +1,6 @@
 # Let's go Gambling 
 
-### [link to code](https://glitch.com/edit/#!/cactus-scratch-pencil?path=index.html%3A71%3A73)
+### [link to code](https://glitch.com/edit/#!/cactus-scratch-pencil?path=index.html%3A71%3A73) [link to webpage](https://cactus-scratch-pencil.glitch.me/) 
 
 ## Overall Description
 Our project revolves around a unique phone unlock mechanism inspired by a dice gambling game. Users roll dice and place bets to see who gets the highest value. At first glance, it may seem like the unlock method depends on rolling certain numbers, which is intended to mislead anyone unfamiliar with the phone. In reality, the true method to unlock the phone is by selecting the correct dice color and using the right shaking intensity—three times—to generate the three PIN values needed for access. This clever approach ensures that only the rightful owner can unlock the phone.
@@ -40,7 +40,7 @@ This idea was inspired by Where’s Waldo. The concept involved a 3D image fille
 <div style="text-align: center;">
   <img src="A2 sketch/A2_SKETCHES_concept__Refined_241027_171422_3.jpg" alt="img3" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
 <p>
-The idea we ultimately chose was a dice-shaking unlock system. Similar to the drink maker concept, the user selects a set number of colored dice and then shakes the phone at a chosen intensity—low, moderate, or high. This process is repeated three times, with each combination of dice color and shake intensity forming a part of the PIN. To unlock the device, the user must correctly replicate their preset combinations three times. At the end, a message indicates if the "House" has won or lost. If the House wins, the input was incorrect; if the House loses, the input was correct, unlocking the device. The sum indicator is included purely as a red herring to mislead anyone attempting to guess the PIN.
+The idea we ultimately chose was a dice-shaking unlock system. Similar to the drink maker concept, the user selects a set number of colored dice and then shakes the phone at a chosen intensity—low, moderate, or high. This process is repeated three times, with each combination of dice color and shake intensity forming a part of the PIN. To unlock the device, the user must correctly replicate their preset combinations three times. At the end, a message indicates if the "House" has won or lost. If the House wins, the input is incorrect; if the House loses, the input is correct, unlocking the device. The sum indicator is included purely as a red herring to mislead anyone attempting to guess the PIN.
 </p> 
 
 </div>
