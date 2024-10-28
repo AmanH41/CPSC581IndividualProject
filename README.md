@@ -1,51 +1,51 @@
-# RPS BattleZ
+# Let's go Gambling 
 
-### [link to code](https://glitch.com/edit/#!/cpsc-581-project-1-rps?path=button_handling.js%3A26%3A2)
+### [link to code](https://glitch.com/edit/#!/cactus-scratch-pencil?path=index.html%3A71%3A73)
 
 ## Overall Description
-Our project revolves around a two-button game that mirrors my passion for fighting games and competitive spirit. Drawing inspiration from my love for fighting games and the thrill of competitive games, we designed a game based on the traditional "Rock, Paper, Scissors" concept but with a creative twist that reflects my interests.
+Our project revolves around a unique phone unlock mechanism inspired by a dice gambling game. Users roll dice and place bets to see who gets the highest value. At first glance, it may seem like the unlock method depends on rolling certain numbers, which is intended to mislead anyone unfamiliar with the phone. In reality, the true method to unlock the phone is by selecting the correct dice color and using the right shaking intensity—three times—to generate the three PIN values needed for access. This clever approach ensures that only the rightful owner can unlock the phone.
 
-The game includes three main actions: Attack, Parry, and Block, each corresponding to familiar fighting game moves. These interactions go beyond the standard RPS format, incorporating fighting game strategy, where each move  counters another. This variation adds depth and strategy, capturing the excitement of fast-paced decisions in competitive gameplay. The game's inspiration comes from iconic Street Fighter 3, adding nostalgic elements that speak to my fondness for the Street Fighter series.
-
-With two simple buttons, players can make decisions that impact the battle between two on-screen characters. The design intentionally reflects the classic arcade era, featuring a sleek yet nostalgic aesthetic to make the experience both engaging and visually captivating. The simplicity of the controls, paired with the rich visual and strategic depth, creates a game that's both fun and challenging, embodying the spirit of the competitive gaming I love.
 
 ## Concept sketches
 <div style="text-align: center;">
-  <img src="IMG_0276.jpg" alt="img1" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
+  <img src="A2 sketch/A2_SKETCHES_concept__Refined_241027_171422_1.jpg" alt="img1" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
 </div>
-1. Fighting game featuring two actions: attack and block, functioning as a rock-paper-scissors mechanics.
-2. Auto battler where players click to attack monsters, gaining experience points to level up.
-3. Gacha game that allows players to create and draw cards from a rarity-based pool.
-4. MOBA-like battle arena game.
-5. Souls-lite dungeon battler where players can move and attack incoming monsters.
-6. Island traversal game where players explore islands, each representing different aspects of their personality or life.
-7. Treasure hunt game where users click to find hidden dragon balls on a map.
-8. Happiness management game where players balance parental expectations of studying with their enjoyment of gaming.
-9. Shoe discovery game where users swipe right for shoes they like and left for those they dislike.
-10. Stamina management game where users hike up a mountain while managing their stamina.
+1. Where's Waldo: Select a specific item or individual known only to the device owner to unlock the phone.
+2. Home Direction: Unlock the phone by holding it in the direction of your home for a prolonged period.
+3. Make a Protein Shake: Choose specific ingredients and shake them into a protein shake to unlock the phone.
+4. Create hand puppets in front of the phone's camera to unlock it.
+5. Perform certain gym movements, like a bench press or squat, to unlock the phone.
+6. Choose the correct door among several in a 3D space and use a keyhole feature to unlock the phone.
+7. Unlock the phone by singing at a specific pitch.
+8. Play a song using a digital flute interface on the screen. Blow on the microphone while holding the correct notes and play a pre-selected sequence to unlock.
+9. Perform a multi-directional gesture sequence to unlock the phone.
+10. Roll a dice and select the correct numbers to unlock the phone
 
 ## Refined Sketches 
 <div style="text-align: center;">
-  <img src="drive-download-20241001T033132Z-001/A1 Refined sketches_240930_201617_1 (1).jpg" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
-    <img src="drive-download-20241001T033132Z-001/A1 Refined sketches_240930_201617_2 (1).jpg" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
-    <img src="drive-download-20241001T033132Z-001/A1 Refined sketches_240930_201617_3 (1).jpg" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
+  <img src="A2 sketch/A2_SKETCHES_concept__Refined_241027_171422_2.jpg" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
+
   <p>
-Each sketch represents the conceptual development of my RPS (Rock-Paper-Scissors) game, which was my initial idea for Assignment 1. The refined sketch evolved from this concept, allowing me to ideate different gameplay mechanics and designs. I chose to refine this idea because it aligns with my passion for fighting games and competitive play, making it a natural fit for my project. These sketches showcase the progression from the initial idea to the more developed final version. Ultimately, my application meets the assignment's objectives by reflecting my interests in gaming and competition, resulting in an engaging experience.
+The first idea we explored was creating a drink-making challenge, initially focusing on protein shakes but later considering other options like alcoholic beverages or sodas. The concept involves the user selecting an ingredient and shaking the phone to mix it. This process is repeated a specific number of times based on a predefined combination of ingredients and shake intensity set by the owner. If the user makes a mistake or wants to start over, they can tilt the phone 180 degrees to "pour out" the drink, resetting the entire process.
   </p>
 </div>
 
 <div style="text-align: center;">
-  <img src="drive-download-20241001T033132Z-001/A1 Refined sketches_240930_201617_4 (1).jpg" alt="img1" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
-  <img src="drive-download-20241001T033132Z-001/A1 Refined sketches_240930_201617_5 (1).jpg" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
-  <img src="drive-download-20241001T033132Z-001/A1 Refined sketches_240930_201617_6 (1).jpg" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
-<p>
-These refined sketches were derived from concept ideas 2 and 3. Instead of having separate buttons for attacking and leveling up, I decided to consolidate the actions into one button for attacking and blocking, allowing leveling up to occur as a natural result of battles. This approach enhances the gameplay experience.
-
-Additionally, I envisioned combining the auto battler and gacha game concepts, where players summon rare cards—each with its own rarity—to fight monsters. However, I encountered challenges regarding the game's complexity and its connection to my personality. While I enjoy gacha and hunting games, I struggled to find a deeper personal connection beyond my love for these genres.
-</p> 
+  <img src="A2 sketch/A2_SKETCHES_concept__Refined_241027_232042_4.jpg" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
+  <p>
+This idea was inspired by Where’s Waldo. The concept involved a 3D image filled with numerous people, animals, and objects. To unlock the phone, the user would need to scan across the scene with their phone and select specific objects or individuals. The main challenge, and the reason we decided not to pursue this concept, was the uncertainty around the project's scope. Implementing a fully interactive 3D image with touch capabilities and multiple selectable objects seemed complex and time-consuming, especially given our project’s time constraints.
+  </p>
 </div>
 
-## RPS BattleZ Demo
+<div style="text-align: center;">
+  <img src="A2 sketch/A2_SKETCHES_concept__Refined_241027_171422_3.jpg" alt="img3" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
+<p>
+The idea we ultimately chose was a dice-shaking unlock system. Similar to the drink maker concept, the user selects a set number of colored dice and then shakes the phone at a chosen intensity—low, moderate, or high. This process is repeated three times, with each combination of dice color and shake intensity forming a part of the PIN. To unlock the device, the user must correctly replicate their preset combinations three times. At the end, a message indicates if the "House" has won or lost. If the House wins, the input was incorrect; if the House loses, the input was correct, unlocking the device. The sum indicator is included purely as a red herring to mislead anyone attempting to guess the PIN.
+</p> 
+
+</div>
+
+##  Let's go Gambling Demo
 
 <div style="text-align: center;">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/zv2M-zAE97Y" 
@@ -53,6 +53,3 @@ Additionally, I envisioned combining the auto battler and gacha game concepts, w
   </iframe>
 </div>
 
-## Project Contribution
-1. I contributed by coding and implementing various features while also designing the web page.
-2. As a group, we collaborated to brainstorm and refine concepts, leading to impressive sketches and a stronger project outcome
