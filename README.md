@@ -49,8 +49,8 @@ The idea we ultimately chose was a dice-shaking unlock system. Similar to the dr
 ##  Let's go Gambling Demo
 
 <div style="text-align: center;">
-  <iframe width="560" height="315" src="https://youtu.be/iQQwU-qSa0I" 
+  <iframe width="560" height="315" 
+  src="https://www.youtube.com/embed/iQQwU-qSa0I" 
   title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
   </iframe>
 </div>
-
