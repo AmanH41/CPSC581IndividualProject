@@ -4,7 +4,7 @@
 ### [link to webpage](https://cactus-scratch-pencil.glitch.me/) 
 
 ## Overall Description
-Our project revolves around a unique phone unlock mechanism inspired by a dice gambling game. Users roll dice and place bets to see who gets the highest value. At first glance, it may seem like the unlock method depends on rolling certain numbers, which is intended to mislead anyone unfamiliar with the phone. In reality, the true method to unlock the phone is by selecting the correct dice color and using the right shaking intensity—three times—to generate the three PIN values needed for access. This clever approach ensures that only the rightful owner can unlock the phone.
+Do not disturb proxemic is a digfital and visual way of detering indivudals from disturbing you while you are studying, working or just want to be left alone urging appraoching indivdual to reconsider entering your room .
 
 
 ## Concept sketches
