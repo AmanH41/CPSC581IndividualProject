@@ -1,11 +1,10 @@
 # Do not Disturb proxemics 
 
-### [link to code](https://glitch.com/edit/#!/cactus-scratch-pencil?path=index.html%3A71%3A73)  
-### [link to webpage](https://cactus-scratch-pencil.glitch.me/) 
+### [link to code](https://glitch.com/edit/#!/dontdisturbproxemics?path=index.html%3A1%3A0)  
+### [link to web Interface](https://dontdisturbproxemics.glitch.me/) 
 
 ## Overall Description
-Do not disturb proxemic is a digfital and visual way of detering indivudals from disturbing you while you are studying, working or just want to be left alone urging appraoching indivdual to reconsider entering your room .
-
+The Do Not Disturb Proxemic is a digital and visual system designed to deter individuals from interrupting you while you are studying, working, or simply seeking solitude. By dynamically signaling approaching individuals to reconsider entering your room, it ensures your privacy and minimizes unwanted disturbances.
 
 ## Concept sketches
 <div style="text-align: center;">
@@ -29,7 +28,6 @@ Do not disturb proxemic is a digfital and visual way of detering indivudals from
   <img src="drive-download-20241119T064848Z-001/Nov 18 2024_241118_234823_3.jpg" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
 
   <p>
-
 When no user is present, the information display board remains blank. As a user approaches, the board progressively displays information in three levels based on their proximity to the display/door:
 
   Level Red: Visible from afar, it clearly indicates that the user inside should not be disturbed.
@@ -40,14 +38,11 @@ This system ensures clear and respectful communication while maintaining privacy
   </p>
 </div>
 
-
-</div>
-
 ## Do not Disturb proxemics Demo. 
 
 <div style="text-align: center;">
   <iframe width="560" height="315" 
-  src="" 
+  src="asdasd" 
   title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
   </iframe>
 </div>
