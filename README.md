@@ -41,7 +41,14 @@ This system ensures clear and respectful communication while maintaining privacy
 ## Do not Disturb proxemics Demo. 
 
 <div style="text-align: center;">
-  <iframe width="560" height="315" src="https://youtu.be/Pcxi1WYCmLE" 
-  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+  <iframe 
+    width="560" 
+    height="315" 
+    src="https://www.youtube.com/embed/Pcxi1WYCmLE" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
   </iframe>
 </div>
+
