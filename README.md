@@ -1,3 +1,5 @@
+### [(Assignment 1)](https://amanh41.github.io/CPSC581A1/) [(Assignment 2)](https://amanh41.github.io/CPSC581A2/) [(Assignment 3)](https://amanh41.github.io/CPSC581-A3/) 
+
 # Do not Disturb proxemics 
 
 ### [link to code](https://glitch.com/edit/#!/dontdisturbproxemics?path=index.html%3A1%3A0)  
